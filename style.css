@@ -1,0 +1,39 @@
+header {
+    background-color:rgb(242, 102, 219)
+}
+
+body{
+    background-color:rgb(241, 156, 227)
+}
+
+.flexContainer{
+    display:flex;
+    justify-content:flex-end;
+    gap: 10px;
+    border: 10px;
+
+ }
+
+ #CIM{
+    text-align: center;
+ }
+
+ img{
+    width: 200px;
+    height: 200px;
+ }
+
+.linkedin{
+    height: 30px;
+    width: 30px;
+    bottom: 200px;
+ }
+
+ .project{
+    border: 5px solid black;
+    margin: 10px;
+ }
+
+ #MP{
+    text-align: center;
+ }
